@@ -1,4 +1,4 @@
-login= root
+login= admin
 pass-a123456
 1- What is this?
     * This is a Joomla! installation/upgrade package to version 2.5.x
